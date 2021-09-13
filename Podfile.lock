@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.0.5)
+  - CryptoSwift (1.4.1)
+  - GIFImageView (0.1.0)
+  - Kingfisher (4.10.1)
+  - SVGWebRenderer (0.2.2):
+    - Alamofire (~> 5.0.0)
+    - CryptoSwift (~> 1.0)
+    - Kingfisher (~> 4.10.0)
+
+DEPENDENCIES:
+  - GIFImageView
+  - SVGWebRenderer
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CryptoSwift
+    - GIFImageView
+    - Kingfisher
+    - SVGWebRenderer
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  CryptoSwift: 0bc800a7e6a24c4fc9ebeab97d44b0d5f73a78bd
+  GIFImageView: cd6a500b9bac1942cb66b73452b97baa6e75280d
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  SVGWebRenderer: 7b32602894350fb80f8858454f2a8964f5b2d76e
+
+PODFILE CHECKSUM: 9a80aa130726b255a87723a817c17135b8881077
+
+COCOAPODS: 1.10.1
