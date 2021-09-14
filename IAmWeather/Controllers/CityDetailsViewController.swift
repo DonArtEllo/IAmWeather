@@ -99,6 +99,8 @@ class CityDetailsViewController: UIViewController {
         forecastTableView.reloadData()
     }
     
+    // MARK: - Animations
+    
 }
 
 // MARK: - Extentions
